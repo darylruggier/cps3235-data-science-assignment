@@ -2,79 +2,139 @@
     "data": [
         {
             "edit_history_tweet_ids": [
-                "1596448020542939138"
+                "1596782106335936512"
             ],
-            "id": "1596448020542939138",
-            "text": "@gunsnrosesgirl3 Will look into it"
+            "id": "1596782106335936512",
+            "public_metrics": {
+                "like_count": 25440,
+                "quote_count": 126,
+                "reply_count": 1866,
+                "retweet_count": 2139
+            },
+            "text": "@BillyM2k They won\u2019t give up controlling the narrative easily \u2026"
         },
         {
             "edit_history_tweet_ids": [
-                "1596439328338890752"
+                "1596771467844517889"
             ],
-            "id": "1596439328338890752",
-            "text": "@Rainmaker1973 I wonder what Earth will be like 88 million years from now"
+            "id": "1596771467844517889",
+            "public_metrics": {
+                "like_count": 4567,
+                "quote_count": 39,
+                "reply_count": 464,
+                "retweet_count": 169
+            },
+            "text": "@rawsalerts Good idea"
         },
         {
             "edit_history_tweet_ids": [
-                "1596435023871500293"
+                "1596758742561062913"
             ],
-            "id": "1596435023871500293",
-            "text": "@WholeMarsBlog Most people still have no idea. FSD is the most important software release of any kind in a very long time."
+            "id": "1596758742561062913",
+            "public_metrics": {
+                "like_count": 22096,
+                "quote_count": 68,
+                "reply_count": 1083,
+                "retweet_count": 1255
+            },
+            "text": "@hodgetwins True"
         },
         {
             "edit_history_tweet_ids": [
-                "1596429736531881985"
+                "1596758484816695298"
             ],
-            "id": "1596429736531881985",
-            "text": "@getpaidwrite He is infected with a mental version of this physical virus https://t.co/D639ASTAA0"
+            "id": "1596758484816695298",
+            "public_metrics": {
+                "like_count": 2195,
+                "quote_count": 13,
+                "reply_count": 116,
+                "retweet_count": 94
+            },
+            "text": "@PPathole @StephenKing Correct"
         },
         {
             "edit_history_tweet_ids": [
-                "1596428695090044928"
+                "1596751751532937217"
             ],
-            "id": "1596428695090044928",
-            "text": "@getpaidwrite That the mind virus is pushing humanity towards extinction is not hyperbole https://t.co/1BaiMRSvAy"
+            "id": "1596751751532937217",
+            "public_metrics": {
+                "like_count": 47753,
+                "quote_count": 299,
+                "reply_count": 2723,
+                "retweet_count": 3712
+            },
+            "text": "@jordanbpeterson I think I see a path to Twitter exceeding a billion monthly users in 12 to 18 months"
         },
         {
             "edit_history_tweet_ids": [
-                "1596427779587080195"
+                "1596726283576090624"
             ],
-            "id": "1596427779587080195",
-            "text": "Simpson\u2019s predicts I buy Twitter S26E12 https://t.co/yVmWGwrYY6"
+            "id": "1596726283576090624",
+            "public_metrics": {
+                "like_count": 25941,
+                "quote_count": 85,
+                "reply_count": 1472,
+                "retweet_count": 1558
+            },
+            "text": "@Teslaconomics He can drive it himself if he wants!"
         },
         {
             "edit_history_tweet_ids": [
-                "1596323842246545409"
+                "1596725634126204928"
             ],
-            "id": "1596323842246545409",
-            "text": "@teslaownersSV @stillgray It\u2019s insane! I\u2019m just fighting for free speech in America."
+            "id": "1596725634126204928",
+            "public_metrics": {
+                "like_count": 7453,
+                "quote_count": 20,
+                "reply_count": 393,
+                "retweet_count": 318
+            },
+            "text": "@ChrisDungeon \ud83e\udd23\ud83e\udd23"
         },
         {
             "edit_history_tweet_ids": [
-                "1596322918983663620"
+                "1596718851097755648"
             ],
-            "id": "1596322918983663620",
-            "text": "@ProudElephantUS @TimRunsHisMouth But Twitter as a platform must be fair to all"
+            "id": "1596718851097755648",
+            "public_metrics": {
+                "like_count": 130833,
+                "quote_count": 2620,
+                "reply_count": 10528,
+                "retweet_count": 13180
+            },
+            "text": "Slides from my Twitter company talk https://t.co/8LLXrwylta"
         },
         {
             "edit_history_tweet_ids": [
-                "1596322719372480513"
+                "1596716236477698048"
             ],
-            "id": "1596322719372480513",
-            "text": "@ProudElephantUS @TimRunsHisMouth Yes"
+            "id": "1596716236477698048",
+            "public_metrics": {
+                "like_count": 73504,
+                "quote_count": 485,
+                "reply_count": 5199,
+                "retweet_count": 6547
+            },
+            "text": "Starry, starry night \u2026 https://t.co/IN3SeOH7f7"
         },
         {
             "edit_history_tweet_ids": [
-                "1596321568723853314"
+                "1596704250880720898"
             ],
-            "id": "1596321568723853314",
-            "text": "@stillgray Yup"
+            "id": "1596704250880720898",
+            "public_metrics": {
+                "like_count": 189337,
+                "quote_count": 1296,
+                "reply_count": 13665,
+                "retweet_count": 12495
+            },
+            "text": "Tesla team just completed a 500 mile drive with a Tesla Semi weighing in at 81,000 lbs!"
         }
     ],
     "meta": {
-        "newest_id": "1596448020542939138",
-        "next_token": "7140dibdnow9c7btw424caqs3x1wdbxfpmpdq3fydonck",
-        "oldest_id": "1596321568723853314",
+        "newest_id": "1596782106335936512",
+        "next_token": "7140dibdnow9c7btw424carz6ly08sdn52j0pi9wp2q0o",
+        "oldest_id": "1596704250880720898",
         "result_count": 10
     }
 }
